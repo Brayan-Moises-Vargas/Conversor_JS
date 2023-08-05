@@ -1,0 +1,77 @@
+body{
+
+
+
+
+
+    
+    background-color: rgba(128, 128, 128, 0.315);
+  margin: 0%;
+  padding: 0%;
+  font-style: italic;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color:  rgba(212, 0, 0, 0.922);
+margin: 0%;
+padding: 1rem;
+}
+.container{
+ display: flex;
+ justify-content: center;
+}
+
+.grafico{
+    width: 70%;
+    padding: 1rem;
+}
+.estilografico{
+    display: flex;
+    justify-content: center;
+}
+button{
+background-color: rgba(219, 67, 67, 0.922);
+padding: 0.5rem;
+border: none;
+border-radius: 10px;
+font-size: 1rem;
+margin-top: 0.8rem;
+font-style: italic;
+
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+.css{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+input{
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+    font-style: italic;
+}
+select{
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+    font-style: italic;
+}
+h3{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+
+  
